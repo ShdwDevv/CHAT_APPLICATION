@@ -1,3 +1,2 @@
 HTML , CSS and JS
 Python and Flask
-MySQL
